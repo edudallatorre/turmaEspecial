@@ -1,2 +1,2 @@
 # turmaEspecial
-Projeto com objetivo de automatizar cálculos.
+Esse projeto teve o objetivo de melhorar o aprendizado na linguagem C e automatizar os cálculos. (Realizado em 2018)
